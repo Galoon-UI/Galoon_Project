@@ -1,0 +1,7 @@
+<resources>
+    <string
+        name="app_name">GaLoon
+
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>

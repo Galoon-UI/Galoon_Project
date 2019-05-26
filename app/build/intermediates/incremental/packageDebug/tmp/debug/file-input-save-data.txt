@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Apr 29 11:30:28 ICT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\User\\AndroidStudioProjects\\BluetoothKP_Gemma\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1

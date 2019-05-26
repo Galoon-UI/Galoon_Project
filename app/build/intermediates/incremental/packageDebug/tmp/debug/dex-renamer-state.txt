@@ -1,0 +1,4 @@
+#Thu May 02 14:12:58 ICT 2019
+base.0=C\:\\Users\\User\\AndroidStudioProjects\\BluetoothKP_Gemma\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
